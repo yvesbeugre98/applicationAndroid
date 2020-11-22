@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".ui.message.MessageFragment">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <EditText
+                android:id="@+id/appel"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custom_input"
+                android:drawableStart="@drawable/ic_call"
+                android:drawableLeft="@drawable/ic_call"
+                android:hint="Saisir numéro"
+                android:inputType="number"
+                android:padding="10dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:gravity="center">
+            <Button
+                android:id="@+id/appeler"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Appeler"
+                android:backgroundTint="@color/yellow"
+                />
+        </TableRow>
+    </TableLayout>
+
+
+</LinearLayout>

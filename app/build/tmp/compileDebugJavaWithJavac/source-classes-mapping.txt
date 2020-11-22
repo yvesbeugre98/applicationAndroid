@@ -1,0 +1,46 @@
+com/example/myapplication/ui/music/songAdapter.java
+ com.example.myapplication.ui.music.songAdapter
+com/example/myapplication/ui/appel/AppelFragment.java
+ com.example.myapplication.ui.appel.AppelFragment
+ com.example.myapplication.ui.appel.AppelFragment$1
+ com.example.myapplication.ui.appel.AppelFragment$1$1
+ com.example.myapplication.ui.appel.AppelFragment$1$2
+ com.example.myapplication.ui.appel.AppelFragment$1$3
+ com.example.myapplication.ui.appel.AppelFragment$OnButtonClickedListener
+com/example/myapplication/ui/video/VideoViewModel.java
+ com.example.myapplication.ui.video.VideoViewModel
+com/example/myapplication/ui/appel/ViewPageAdapter.java
+ com.example.myapplication.ui.appel.ViewPageAdapter
+com/example/myapplication/ui/appel/HistoriqueFragment.java
+ com.example.myapplication.ui.appel.HistoriqueFragment
+com/example/myapplication/ui/appel/AppelViewModel.java
+ com.example.myapplication.ui.appel.AppelViewModel
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+com/example/myapplication/ui/appel/ContactFragment.java
+ com.example.myapplication.ui.appel.ContactFragment
+com/example/myapplication/ui/message/MessageFragment.java
+ com.example.myapplication.ui.message.MessageFragment
+ com.example.myapplication.ui.message.MessageFragment$1
+ com.example.myapplication.ui.message.MessageFragment$OnButtonClickedListenerMessage
+com/example/myapplication/ui/video/VideoFragment.java
+ com.example.myapplication.ui.video.VideoFragment
+ com.example.myapplication.ui.video.VideoFragment$1
+ com.example.myapplication.ui.video.VideoFragment$1$1
+com/example/myapplication/ui/message/MessageViewModel.java
+ com.example.myapplication.ui.message.MessageViewModel
+com/example/myapplication/ui/music/song.java
+ com.example.myapplication.ui.music.song
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/ui/video/VideoViewUtils.java
+ com.example.myapplication.ui.video.VideoViewUtils
+com/example/myapplication/SplashScreen.java
+ com.example.myapplication.SplashScreen
+ com.example.myapplication.SplashScreen$1
+com/example/myapplication/callIntent.java
+ com.example.myapplication.callIntent
+com/example/myapplication/ui/music/MusicViewModel.java
+ com.example.myapplication.ui.music.MusicViewModel
+com/example/myapplication/ui/music/MusicFragment.java
+ com.example.myapplication.ui.music.MusicFragment
